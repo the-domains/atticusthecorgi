@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[atticusthecorgi]]></title>
         <description><![CDATA[atticusthecorgi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atticusthecorgi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 03:08:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 03:15:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atticusthecorgi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb3d7253-7488-4e1e-a41f-0877c93c7893.jpg">]]></description>
+            <link>https://thegrid.ai/atticusthecorgi/a26d7501-35d6-4803-a5e4-a8dcee397689/index.html</link>
+            <guid isPermaLink="false">a26d7501-35d6-4803-a5e4-a8dcee397689</guid>
+            <pubDate>Thu, 14 Jul 2016 03:14:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a8988ef-dff6-428d-9215-837ab7dd877a.jpg">]]></description>
-            <link>undefined55a702ff-7bd5-4484-8864-d574cf419cbb/index.html</link>
+            <link>https://thegrid.ai/atticusthecorgi/55a702ff-7bd5-4484-8864-d574cf419cbb/index.html</link>
             <guid isPermaLink="false">55a702ff-7bd5-4484-8864-d574cf419cbb</guid>
             <pubDate>Thu, 14 Jul 2016 03:07:43 GMT</pubDate>
         </item>
